@@ -1,0 +1,4 @@
+F:\UnityProject\TestForHoloToolKit\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+F:\UnityProject\TestForHoloToolKit\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+F:\UnityProject\TestForHoloToolKit\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+F:\UnityProject\TestForHoloToolKit\WindowsStoreApp\TestForHoloToolKit\TestForHoloToolKit.csproj;x86
